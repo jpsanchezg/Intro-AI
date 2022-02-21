@@ -1,1 +1,1 @@
-# intro-a-la-ia
+# intro-AI
